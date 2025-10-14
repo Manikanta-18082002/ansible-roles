@@ -6,3 +6,6 @@ backend.dawsmani.site
 
 [frontend]
 frontend.dawsmani.site
+
+[all:vars]
+ansible_password=DevOps321
